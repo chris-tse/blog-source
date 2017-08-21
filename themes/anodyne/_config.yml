@@ -1,0 +1,56 @@
+# Logo
+logo_image_source: http://www.codeblocq.com/assets/projects/hexo-theme-anodyne/assets/anodyne.svg
+
+# Index Page
+index_banner_text: CS and Other Adventures
+index_banner_text_secondary: Tales of a CS student in the modern tech industry
+index_font_awesome_icon_css: fa fa-code
+
+# Header
+menu:
+  Home: https://chris-tse.com
+  Blog: /
+  Archives: /archives
+
+# Post
+default_post_title: Untitled
+default_post_icon: fa-file-text-o
+
+# Archive Date Format
+archive_date_format: YYYY MMM
+archive_font_awesome_icon_css: fa-folder-open
+
+# About Widget
+about_widget_avatar_url: https://media.licdn.com/media/AAEAAQAAAAAAAAn6AAAAJDE2MDFmOTE4LTRlOTItNDliOC1iZDEzLWRhYWZkZjViYjM3Mg.jpg
+about_widget_text: "My name is Christopher Tse.<br>I am a Computer Science student at the University of Oklahoma and a developer with preference for JavaScript."
+
+
+# Comments.
+comments:
+  # Disqus comments
+  disqus_shortname:
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Social Media Platforms
+social_platforms:
+  - url: https://twitter.com/ChrisMTse
+    fa_icon: fa-twitter
+  # - url: https://www.facebook.com/
+  #   fa_icon: fa-facebook
+  # - url: https://dribbble.com/
+  #   fa_icon: fa-dribbble
+  - url: https://github.com/christopher-tse
+    fa_icon: fa-github
+  # - url: https://www.behance.net/
+  #   fa_icon: fa-behance
+  # - url: https://500px.com/
+  #   fa_icon: fa-500px
+  - url: mailto:chris@chris-tse.com
+    fa_icon: fa-envelope
+  # - url: /#
+  #   fa_icon: fa-rss
+
+# Footer about
+footer_about: "All rights reserved | Design & Hexo <a class=\"link dim white\" href=\"http://www.codeblocq.com/\">Jonathan Klughertz</a>"
