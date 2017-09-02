@@ -41,7 +41,7 @@ However, the length itself isn't really the issue as much as the amount of keywo
 #### Java is too *technically* verbose
 When a beginner picks up Java, they inevitably ask at the beginning: "What is a class?", "What does `public` mean?", "What is `static`?", and the list goes on.
 
-A lot of this is explained as "You'll learn this later." And I don't really blame teachers for that, since they don't really have a choice. You can't explain what a `class` is until they know what object oriented programming is. And you can't teach what `public` means until they understand scoping. By contrast, the Python example contains just one keyword, and it's much easier to explain what it does, and is quite intuitive, as is the rest of the language.
+Professors explain this by saying "You'll learn this later." And I don't really blame teachers for that, since they don't really have a choice. You can't explain what a `class` is until they know what object oriented programming is. And you can't teach what `public` means until they understand scoping. By contrast, the Python example contains just one keyword, and it's much easier to explain what it does, and is quite intuitive, as is the rest of the language.
 
 In my class, the professor literally referred to  `public static void main(String[] args)` as the "black magic incantation" that would make our programs run. Oh, and she also made us chant it in unison. Great way to learn programming, right?
 
