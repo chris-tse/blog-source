@@ -74,9 +74,15 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: anodyne
 
+# plugins:
+#   - hexo-generator-robotstxt
+
+# robotstxt:
+#   sitemap: /sitemap.xml
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/christopher-tse/blog
+  repo: https://github.com/chris-tse/blog
   branch: master
