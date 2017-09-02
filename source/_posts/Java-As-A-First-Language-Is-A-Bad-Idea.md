@@ -11,11 +11,11 @@ tags:
 
 Let's get this blog rolling with its first actual post.
 
-I first learned Java in our Intro to CS course and I have been stuck with it in school until recently in my junior year courses. I didn't really think much of it at the time. Since then I've taken up several different languages either for work out of personal interest, and I've now developed a certain love-hate relationship with Java.
+I first learned Java in our Intro to CS course and I have been stuck with it in school until recently in my junior year courses. I didn't really think much of it at the time. Since then I've taken up several different languages either for work or out of personal interest, and I've now developed a certain love-hate relationship with Java.
 
 #### Caution: Opinions Ahead
 
-The basics of the language are easy enough to learn for a beginner, is cross platform so students can use it regardless of the OS on their personal machines, and the Java API has many useful classes and features implemented for use out of the box. Despite all this, I believe that there are better choices out there for an Intro to CS course. Let's take a look at a few reasons why this is.
+The basics of the language are easy enough to learn for a beginner, is cross platform so students can use it regardless of the OS on their personal machines, and the Java API has many useful classes and features implemented for you out of the box. Despite all this, I believe that there are better choices out there for an Intro to CS course. Let's take a look at a few reasons why I think this is.
 
 #### Java is too verbose
 This is a simple "Hello world" program in Java, with conservative spacing:
@@ -47,9 +47,7 @@ In my class, the professor literally referred to  `public static void main(Strin
 
 #### Not high level, yet not low level
 
-Java is considered a high level language, but it's definitely less abstracted unlike Python or JavaScript. It also isn't as low level as C or Rust where you deal with manual memory management. I think that starting with Java results in the inability to paint a full picture of how the computer works
-
-In my opinion, I also believe that when learning programming, one should generally start from one end of the high/low level spectrum and slowly move to the other end.
+Java is considered a high level language, but it's definitely less abstracted unlike Python or JavaScript. It also isn't as low level as C or Rust where you deal with manual memory management. I think that starting with Java results in the inability to paint a full picture of how the computer works. I believe that when learning programming, one should start from one end of the high/low level spectrum and slowly move to the other end.
 
 On one hand, we could start with a scripting language with many features like Python or JavaScript. Once they've gotten the basics of programming down such as variables, conditionals, and loops, then we can move onto Java and introduce more strict C-like syntax with strong typing. Finally, move onto C/C++, demonstrating how the conveniences in Python and Java were actually abstracted away, showing how to allocate memory.
 
