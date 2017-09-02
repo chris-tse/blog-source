@@ -52,7 +52,7 @@ In my opinion, I also believe that when learning programming, one should general
 
 On one hand, we could start with a scripting language with many features like Python or JavaScript. Once they've gotten the basics of programming down such as variables, conditionals, and loops, then we can move onto Java and introduce more strict C-like syntax with strong typing. Finally, move onto C/C++, demonstrating how the conveniences in Python and Java were actually abstracted away, showing how to allocate memory.
 
-Or we could go the other way around. Start with the bare metal and basic memory management. Once they have been thoroughly annoyed by all the work involved in something as simple as expanding an array, then we can move up to something like Java. It's a little less work now, still with similar syntax but a lot less memory management. Finally, introduce the concept of scripting and loosely typed languages.
+Or we could go the other way around. Start with the bare metal and basic memory management. Once they have been thoroughly annoyed by all the work involved in something as simple as expanding an array, then we can move up to something like Java. It's a little less work now, still with similar syntax but a lot less memory management. Finally, introduce the concept of scripting and functional languages and loosely typed languages.
 
 By traveling the entire spectrum, the student gets a chance to get a more complete view of programming. They understand the low level concepts of memory and pointers, but also understand that there are higher level languages that abstract those things away for easier development of applications that don't require that degree of memory management.
 
