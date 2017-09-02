@@ -1,5 +1,5 @@
 ---
-title: Why We Shouldn't Have Learned Java
+title: Java As A First Language Is A Bad Idea
 categories:
   - Programming
   - Computer Science
@@ -57,4 +57,4 @@ Or we could go the other way around. Start with the bare metal and basic memory 
 
 By traveling the entire spectrum, the student gets a chance to get a more complete view of programming. They understand the low level concepts of memory and pointers, but also understand that there are higher level languages that abstract those things away for easier development of applications that don't require that degree of memory management.
 
-Starting with something like Python or JavaScript would have made the initial learning curve much less steep and much less mysterious. Once the basics have been solidified, then we can move onto something a little lower level.
+These were some reasons why I don't think we should be teaching Java as what might be the very first programming language for some people. While it's a language with it's strong suits I find that there are better ways to introduce programming and CS concepts than sticking with Java for your first two years of college. Let me know in the comments what kind of
