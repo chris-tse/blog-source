@@ -15,7 +15,7 @@ I first learned Java in our Intro to CS course and I have been stuck with it in 
 
 #### Caution: Opinions Ahead
 
-The basics of the language are easy enough to learn for a beginner, is cross platform so students can use it regardless of platform, and the Java API has many features implemented for use out of the box. Despite all this, I believe that there are better choices out there for an Intro to CS course. Let's take a look at a few reasons why this is. And to be clear, this is all in my opinion.
+The basics of the language are easy enough to learn for a beginner, is cross platform so students can use it regardless of platform, and the Java API has many features implemented for use out of the box. Despite all this, I believe that there are better choices out there for an Intro to CS course. Let's take a look at a few reasons why this is. And to be clear, *this is all in my opinion*.
 
 #### Java is too verbose
 This is a simple "Hello world" program in Java, with conservative spacing:
@@ -56,5 +56,7 @@ On one hand, we could start with a scripting language with many features like Py
 Or we could go the other way around. Start with the bare metal and basic memory management. Once they have been thoroughly annoyed by all the work involved in something as simple as expanding an array, then we can move up to something like Java. It's a little less work now, still with similar syntax but a lot less memory management. Finally, introduce the concept of scripting and functional languages and loosely typed languages.
 
 By traveling the entire spectrum, the student gets a chance to get a more complete view of programming. They understand the low level concepts of memory and pointers, but also understand that there are higher level languages that abstract those things away for easier development of applications that don't require that degree of memory management.
+
+#### In the end, the choice isn't mine
 
 These were some reasons why I don't think we should be teaching Java as what might be the very first programming language for some people. While it's a language with it's strong suits I find that there are better ways to introduce programming and CS concepts than sticking with Java for your first two years of college. Let me know in the comments what programming languages you think are a good idea to start with.
