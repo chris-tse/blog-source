@@ -11,7 +11,7 @@ tags:
 
 Let's get this blog rolling with its first actual post.
 
-I first learned Java in our Intro to CS course, and I've basically been stuck with it in school until recently in my junior year courses. I didn't really think much of it at the time. Since then I've taken up several different languages either for work out of personal interest, and I've now developed a certain love-hate relationship with Java.
+I first learned Java in our Intro to CS course and I have been stuck with it in school until recently in my junior year courses. I didn't really think much of it at the time. Since then I've taken up several different languages either for work out of personal interest, and I've now developed a certain love-hate relationship with Java.
 
 #### Caution: Opinions Ahead
 
