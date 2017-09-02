@@ -1,12 +1,13 @@
 ---
 title: Why We Shouldn't Have Learned Java
+categories:
+  - Programming
+  - Computer Science
+icon: fa-times-circle
 date: 2017-09-02
 tags:
-categories:
-    - Programming
-    - Computer Science
-icon: fa-times-circle
 ---
+
 
 Let's get this blog rolling with its first actual post.
 
