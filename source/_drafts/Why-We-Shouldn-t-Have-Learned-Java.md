@@ -8,11 +8,11 @@ categories:
 icon: fa-times-circle
 ---
 
-### Caution: Opinions Ahead
-
 Let's get this blog rolling with its first actual post.
 
 I first learned Java in our Intro to CS course, and I've basically been stuck with it in school until recently in my junior year courses. I didn't really think much of it at the time. Since then I've taken up several different languages either for work out of personal interest, and I've now developed a certain love-hate relationship with Java.
+
+#### Caution: Opinions Ahead
 
 The basics of the language are easy enough to learn for a beginner, is cross platform so students can use it regardless of platform, and the Java API has many features implemented for use out of the box. Despite all this, I believe that there are better choices out there for an Intro to CS course. Let's take a look at a few reasons why this is. And to be clear, this is all in my opinion.
 
