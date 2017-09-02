@@ -29,7 +29,7 @@ about_widget_text: "My name is Christopher Tse.<br>I am a Computer Science stude
 # Comments.
 comments:
   # Disqus comments
-  disqus_shortname:
+  disqus_shortname: christseblog
 
 # Google Analytics Tracking ID
 google_analytics:
