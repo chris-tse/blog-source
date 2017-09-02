@@ -1,5 +1,5 @@
 ---
-title: Java As A First Language Is A Bad Idea
+title: "Java As A First Language: A Bad Idea"
 categories:
   - Programming
   - Computer Science
@@ -15,7 +15,7 @@ I first learned Java in our Intro to CS course and I have been stuck with it in 
 
 #### Caution: Opinions Ahead
 
-The basics of the language are easy enough to learn for a beginner, is cross platform so students can use it regardless of the OS on their personal machines, and the Java API has many useful classes and features implemented for you out of the box. Despite all this, I believe that there are better choices out there for an Intro to CS course. Let's take a look at a few reasons why I think this is.
+The basics of the language are easy enough to learn for a beginner. It's cross platform so students can use it regardless of the OS on their personal machines, and the Java API has many useful classes and features implemented for you out of the box. Despite all this, I believe that there are better choices out there for an Intro to CS course. Let's take a look at a few reasons why I think this is.
 
 #### Java is too verbose
 This is a simple "Hello world" program in Java, with conservative spacing:
@@ -51,7 +51,7 @@ Java is considered a high level language, but it's definitely less abstracted un
 
 On one hand, we could start with a scripting language with many features like Python or JavaScript. Once the students have gotten the basics of programming down such as variables, conditionals, and loops, then we can move onto Java and introduce more strict C-like syntax with strong typing. Finally, move onto C/C++, demonstrating how the conveniences in Python and Java are actually abstracted away.
 
-Or we could go the other way around. Start with the bare metal and basic memory management. Once the students have been thoroughly annoyed by all the work involved in something as simple as expanding an array, then we can move up to something like Java. It's a little less work now, still with similar syntax but a lot more abstract. Finally, introduce the freedom and ease-of-use of scripting and functional languages and loosely typed languages. In fact, this is how Harvard's introductory course CS50 structures their topics.
+Or we could go the other way around. Start with the bare metal and basic memory management. Once the students have been thoroughly annoyed by all the work involved in something as simple as expanding an array, then we can move up to something like Java. It's a little less work now, still with similar syntax but a lot more abstract. Finally, introduce the freedom and ease-of-use of scripting and functional languages and loosely typed languages. In fact, this is how Harvard's introductory course CS50 structures their progression of topics.
 
 By traveling the entire spectrum, the student gets a chance to get a more complete view of programming. They become familiar with low level concepts such as memory management and pointers, but also understand that there are higher level languages that abstract those things away for easier and more rapid development of applications that don't require that degree of control.
 
