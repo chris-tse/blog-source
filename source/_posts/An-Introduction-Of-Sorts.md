@@ -1,6 +1,6 @@
 ---
 title: An Introduction Of Sorts
-date: 2017-08-20 23:16:58
+date: 2017-08-20
 tags:
 categories:
 - General
