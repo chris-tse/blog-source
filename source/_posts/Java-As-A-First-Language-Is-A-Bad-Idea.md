@@ -2,10 +2,9 @@
 title: "Java As A First Language: A Bad Idea"
 categories:
   - Programming
-  - Computer Science
+  - Programming Languages
 icon: fa-times-circle
 date: 2017-09-02
-tags:
 ---
 
 
