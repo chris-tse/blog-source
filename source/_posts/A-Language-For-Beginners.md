@@ -3,6 +3,7 @@ title: A Language For Beginners
 categories:
   - Programming
   - Programming Languages
+  - FreeCodeCamp
 icon: fa-free-code-camp
 date: 2017-10-16 00:00:00
 tags:
